@@ -91,6 +91,7 @@ THUS THE FSK (Frequency Shift Keying) IS PERFORMED USING PHYTON
 ![image](https://github.com/user-attachments/assets/e83f3a6b-d640-4c78-a594-5dc6e52f4dea)
 
 ## Hardware experiment output waveform.
-![WhatsApp Image 2025-05-10 at 13 19 36_7a7ea961](https://github.com/user-attachments/assets/5f63f645-effd-4ccc-ba1f-240ecf7bdcc7)
+![WhatsApp Image 2025-05-12 at 13 54 32_e120bf53](https://github.com/user-attachments/assets/fd42352d-5ae5-4f3f-9dd1-5b69e639df4a)
+
 
 
